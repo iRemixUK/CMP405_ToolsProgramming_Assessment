@@ -1,0 +1,116 @@
+﻿  Camera.cpp
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\Camera.cpp(117,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\Camera.cpp(118,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\Camera.cpp(119,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CameraOptions.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\resource.h(12,1): warning C4005: 'IDCANCEL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11148,1): message : see previous definition of 'IDCANCEL'
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\resource.h(25,1): warning C4005: 'IDC_STATIC': macro redefinition
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\atlmfc\include\afxres.h(343,1): message : see previous definition of 'IDC_STATIC'
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\CameraOptions.cpp(52,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\CameraOptions.cpp(53,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ChunkObject.cpp
+  DeviceResources.cpp
+  DisplayChunk.cpp
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\DisplayChunk.cpp(14,50): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\DisplayChunk.cpp(15,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\DisplayChunk.cpp(73,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\DisplayChunk.cpp(74,185): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\DisplayChunk.cpp(74,81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\DisplayChunk.cpp(94,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\DisplayChunk.cpp(152,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\DisplayChunk.cpp(174,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\DisplayChunk.cpp(189,30): warning C4101: 'index4': unreferenced local variable
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\DisplayChunk.cpp(189,14): warning C4101: 'index2': unreferenced local variable
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\DisplayChunk.cpp(189,22): warning C4101: 'index3': unreferenced local variable
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\DisplayChunk.cpp(189,6): warning C4101: 'index1': unreferenced local variable
+  DisplayObject.cpp
+  Game.cpp
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\Game.cpp(47,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\Game.cpp(47,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\Game.cpp(48,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\Game.cpp(48,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\Game.cpp(60,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\Game.cpp(59,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\Game.cpp(58,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\Game.cpp(66,111): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\Game.cpp(66,85): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\Game.cpp(67,109): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\Game.cpp(67,83): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\Game.cpp(284,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\Game.cpp(294,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\Game.cpp(293,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\Game.cpp(292,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\Game.cpp(278,10): warning C4101: 'Buffer': unreferenced local variable
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\Game.cpp(468,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\resource.h(12,1): warning C4005: 'IDCANCEL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11148,1): message : see previous definition of 'IDCANCEL'
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\resource.h(25,1): warning C4005: 'IDC_STATIC': macro redefinition
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\atlmfc\include\afxres.h(343,1): message : see previous definition of 'IDC_STATIC'
+  MFCFrame.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\resource.h(12,1): warning C4005: 'IDCANCEL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11148,1): message : see previous definition of 'IDCANCEL'
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\resource.h(25,1): warning C4005: 'IDC_STATIC': macro redefinition
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\atlmfc\include\afxres.h(343,1): message : see previous definition of 'IDC_STATIC'
+  MFCRenderFrame.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  pch.cpp
+  MFCMain.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\resource.h(12,1): warning C4005: 'IDCANCEL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11148,1): message : see previous definition of 'IDCANCEL'
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\resource.h(25,1): warning C4005: 'IDC_STATIC': macro redefinition
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\atlmfc\include\afxres.h(343,1): message : see previous definition of 'IDC_STATIC'
+  SceneObject.cpp
+  SelectDialogue.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\resource.h(12,1): warning C4005: 'IDCANCEL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11148,1): message : see previous definition of 'IDCANCEL'
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\resource.h(25,1): warning C4005: 'IDC_STATIC': macro redefinition
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\atlmfc\include\afxres.h(343,1): message : see previous definition of 'IDC_STATIC'
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\SelectDialogue.cpp(41,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ToolMain.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\resource.h(12,1): warning C4005: 'IDCANCEL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11148,1): message : see previous definition of 'IDCANCEL'
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\resource.h(25,1): warning C4005: 'IDC_STATIC': macro redefinition
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\atlmfc\include\afxres.h(343,1): message : see previous definition of 'IDC_STATIC'
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(104,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(105,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(106,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(107,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(108,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(109,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(110,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(111,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(112,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(124,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(125,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(126,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(130,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(131,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(132,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(136,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(137,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(147,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(148,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(149,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(150,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(151,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(152,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(153,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(154,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(155,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(156,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(216,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\ToolMain.cpp(503,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Generating Code...
+  sqlite3.c
+C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\sqlite3.c(29693,7): warning C4996: 'GetVersionExW': was declared deprecated
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.rh(1433): warning RC4005: 'IDCANCEL' : redefinition
+  
+  Win32SimpleSample.vcxproj -> C:\Users\Aaron\Desktop\CMP405_ToolsProgramming_Crawford_Aaron\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\x64\Debug\WoFEdit.exe

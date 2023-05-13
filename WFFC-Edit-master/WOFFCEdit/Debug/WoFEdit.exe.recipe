@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>M:\CMP 405\Assessment\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\Debug\WoFEdit.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>M:\CMP 405\Assessment\CMP-405-Assessment\WFFC-Edit-master\WOFFCEdit\database\data\Scene1.fbx</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
